@@ -1,0 +1,117 @@
+.ls
+    background: #001030
+    color: white
+    height: 75vh
+
+    .logo
+        height: 70px
+
+    .ls-top
+        padding: 20px
+
+        .ls-nav
+            display: flex
+            justify-content: space-between
+            align-items: center
+
+            .logo
+                max-width: 140px
+
+            .menu:hover .sub-menu
+                display: block
+            
+            .menu
+                position: relative
+                padding: 10px 0px
+
+                .sub-menu
+                    position: absolute
+                    top: 100%
+                    right: 0
+                    width: 130px
+                    padding: 20px
+                    border-radius: 5px
+                    background-color: white
+                    color: black
+                    display: none
+
+                    hr
+                        border: none
+                        height: 1px
+                        background: #a4a4a4
+                        margin: 8px 0px
+
+                    p
+                        cursor: pointer
+                        font-size: 14px
+
+            .menu img
+                cursor: pointer
+                opacity: 0.6
+                max-height: 20px
+        
+        .ls-search
+            background-color: #002670
+            display: flex
+            align-items: center
+            gap: 10px
+            padding: 10px 12px
+            margin-top: 20px
+
+            img
+                width: 16px
+
+            input
+                border: none
+                background: transparent
+                outline: none
+                font-size: 11px
+                color: white
+
+                ::placeholder
+                    color: #c8c8c8
+    
+    .ls-list
+        display: flex
+        flex-direction: column
+        height: 70%
+        overflow-y: scroll
+
+        .friends:hover
+            background-color: #077eff
+
+        .friends:hover span
+            color: white
+
+        .friends
+            display: flex
+            align-items: center
+            gap: 10px
+            padding: 10px 20px
+            cursor: pointer
+            font-size: 13px
+
+            img
+                width: 35px
+                aspect-ratio: 1/1
+                border-radius: 50%
+
+            div
+                display: flex
+                flex-direction: column
+
+            span
+                color: #9f9f9f
+                font-size: 11px
+        
+        .friends.border img
+                border: 3px solid #07fff3
+
+        .friends.border div span
+                color: #07fff3
+
+@media (max-width: 900px)
+    .ls
+        width: 100%
+        
+                
