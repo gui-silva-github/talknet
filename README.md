@@ -1,4 +1,4 @@
-## TalkNet
+# TalkNet
 
 Talknet is a powerful messaging system inspired by WhatsApp, designed to deliver seamless, real-time communication between users.
 
