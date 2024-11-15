@@ -86,15 +86,21 @@ React powers the front-end logic, creating an efficient and responsive interface
 <br/>
 <img src="https://github.com/gui-silva-github/talknet/blob/main/public/messagesr.png"/>
 
+<hr>
+
 ## Online
 
 <br/>
 <img src="https://github.com/gui-silva-github/talknet/blob/main/public/messagesrs.png"/>
 
+<hr>
+
 ## Mensagem não vista
 
 <br/>
 <img src="https://github.com/gui-silva-github/talknet/blob/main/public/receivemessages.png"/>
+
+<hr>
 
 ## Recursos
 
