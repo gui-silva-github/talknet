@@ -8,6 +8,94 @@ React powers the front-end logic, creating an efficient and responsive interface
 
 <hr>
 
+## Cadastrar-se
+
+<br/>
+<img src="https://github.com/gui-silva-github/talknet/blob/main/public/signup.png"/>
+
+<hr>
+
+## Login
+
+<br/>
+<img src="https://github.com/gui-silva-github/talknet/blob/main/public/signin.png"/>
+
+<hr>
+
+## Login completo
+
+<br/>
+<img src="https://github.com/gui-silva-github/talknet/blob/main/public/signinc.png"/>
+
+<hr>
+
+## Editar perfil
+
+<br/>
+<img src="https://github.com/gui-silva-github/talknet/blob/main/public/profile.png"/>
+
+<hr>
+
+## Perfil completo
+
+<br/>
+<img src="https://github.com/gui-silva-github/talknet/blob/main/public/profilec.png"/>
+
+<br/>
+<img src="https://github.com/gui-silva-github/talknet/blob/main/public/profiler.png"/>
+
+<hr>
+
+## Chat
+
+<br/>
+<img src="https://github.com/gui-silva-github/talknet/blob/main/public/chat.png"/>
+
+<hr>
+
+## Pesquisar
+
+<br/>
+<img src="https://github.com/gui-silva-github/talknet/blob/main/public/search.png"/>
+
+<hr>
+
+## Amigos
+
+<br/>
+<img src="https://github.com/gui-silva-github/talknet/blob/main/public/friends.png"/>
+
+<hr>
+
+## Chatbox
+
+<br/>
+<img src="https://github.com/gui-silva-github/talknet/blob/main/public/chatdata.png"/>
+
+<hr>
+
+## Mensagem
+
+<br/>
+<img src="https://github.com/gui-silva-github/talknet/blob/main/public/messages.png"/>
+
+<hr>
+
+## Recebendo mensagem
+
+<br/>
+<img src="https://github.com/gui-silva-github/talknet/blob/main/public/messagesr.png"/>
+
+## Online
+
+<br/>
+<img src="https://github.com/gui-silva-github/talknet/blob/main/public/messagesrs.png"/>
+
+## Mensagem não vista
+
+<br/>
+<img src="https://github.com/gui-silva-github/talknet/blob/main/public/receivemessages.png"/>
+
 ## Recursos
 
 - **Real-Time Messaging**: Messages are instantly updated across users' screens using Firebase’s real-time database.
